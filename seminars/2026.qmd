@@ -79,15 +79,18 @@ Reconstructing 3D structural geology from sparse surface and borehole observatio
 <button class="talk-header" data-collapsible="true" aria-expanded="false" tabindex="0">
 <div class="talk-info">
 <h4> #3 Uncertainty quantification using Hamiltonian Monte Carlo for structural geological modelling with implicit neural representations</h4>
-<p>🎤 <a href="2026.html">Kaifeng Gao</a>, RWTH Aachen University, Germany · 🗓️ 11 May 2026 </p>
+<p>🎤 <a href="https://www.linkedin.com/in/kaifeng-g-0a347b23a/">Kaifeng Gao</a>, RWTH Aachen University, Germany · 🗓️ 11 May 2026 </p>
 </div>
 <span class="talk-toggle" aria-hidden="true">▼</span>
 </button>
 <div class="talk-body">
 <div class="talk-abstract">
 
-Three-dimensional geological modelling is an essential tool for understanding subsurface features, supporting advanced exploration of natural resources, their sustainable development, and the identification of optimal locations for carbon storage. Recently, efficient neural network approaches have been developed to handle large datasets and to integrate diverse observations and prior knowledge into geological models. Previous work has demonstrated that neural networks are powerful tools for geological modelling, but quantifying uncertainty in their predictions remains an open issue. In this work, we address the uncertainty arising from both network parameters and observational data. We explore the full space of possible geological model realizations using a Hamiltonian Monte Carlo sampler, and quantify the uncertainty of predicted geological interfaces within a Bayesian neural network framework. Our experimental results demonstrate that the Hamiltonian Monte Carlo sampler effectively explores the posterior distribution in function space and quantifies the uncertainty of predicted geological interfaces for both a noise-free borehole dataset from the North Sea and a noisy dataset interpreted from geophysical well logs in Saskatchewan, Canada. We also apply the method to a simple faulting scenario involving a normal fault in flat stratigraphy. Furthermore, in comparison with the commonly used Monte Carlo dropout approach, the Hamiltonian Monte Carlo sampler exhibits superior accuracy in assessing epistemic uncertainty in a noise-free dataset. However, computational efficiency remains a potential challenge in large dataset and network.
+Previous work has demonstrated that neural networks are powerful tools for geological modelling, but quantifying uncertainty in their predictions remains an open issue. In this work, we address the uncertainty arising from both network parameters and observational data. We explore the full space of possible geological model realizations using a Hamiltonian Monte Carlo (HMC) sampler and quantify the uncertainty of predicted geological interfaces within a Bayesian neural network framework. Our experimental results demonstrate that the HMC sampler effectively explores the posterior distribution in function space and quantifies the uncertainty of predicted geological interfaces for both a noise-free borehole dataset from the North Sea and a noisy dataset interpreted from geophysical well logs in Saskatchewan, Canada. We also apply the method to a simple faulting scenario involving a normal fault in flat stratigraphy. Furthermore, in comparison with the commonly used Monte Carlo dropout approach, the Hamiltonian Monte Carlo sampler exhibits superior accuracy in assessing epistemic uncertainty in a noise-free dataset.
 
+</div>
+<div style="text-align:center; margin-top:0.8em;">
+  <img src="../images/S3kaifeng.png" alt="Seminar visual for Kaifeng Gao talk" style="max-width:100%; height:auto; border-radius:6px;" />
 </div>
 </div>
 :::
