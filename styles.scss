@@ -37,9 +37,9 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Global typography size (request: overall 14pt text) */
+/* Global typography size */
 html {
-  font-size: 14pt;
+  font-size: 12.5pt;
 }
 
 body {
@@ -65,13 +65,13 @@ body {
 
 /* Navbar logo & brand */
 .navbar .navbar-brand img {
-  height: 40pt !important;
+  height: 35pt !important;
   width: auto;
   max-height: none !important;
 }
 
 .navbar .navbar-brand {
-  font-size: 36pt;
+  font-size: 31pt;
   font-weight: 700;
   display: inline-flex;
   align-items: center;
@@ -81,7 +81,7 @@ body {
 /* Header (navbar) text sizes */
 .navbar .navbar-nav .nav-link,
 .navbar .dropdown-menu .dropdown-item {
-  font-size: 16pt;
+  font-size: 14.5pt;
 }
 
 .navbar > .container-fluid {

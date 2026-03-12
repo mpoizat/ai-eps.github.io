@@ -1,5 +1,5 @@
 ---
-pagetitle: "AIEPS — AI in Earth & Planetary Sciences"
+pagetitle: "AI in Earth & Planetary Sciences"
 toc: false
 page-layout: article
 ---

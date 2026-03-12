@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">Spotlight Talk Placeholder</title>
+  <desc id="desc">A playful placeholder image for upcoming seminar spotlight talks.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6efe3"/>
+      <stop offset="100%" stop-color="#d9ecff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="535" rx="24" fill="#ffffff" fill-opacity="0.88" stroke="#1f3a5f" stroke-opacity="0.22"/>
+  <text x="600" y="240" text-anchor="middle" font-family="Georgia, serif" font-size="58" fill="#1f3a5f">Upcoming Spotlight Talk</text>
+  <text x="600" y="315" text-anchor="middle" font-family="Verdana, sans-serif" font-size="34" fill="#2b5a88">Details loading from the future...</text>
+  <text x="600" y="385" text-anchor="middle" font-family="Verdana, sans-serif" font-size="24" fill="#3d4f63">Swap this image when the real speaker is announced.</text>
+  <circle cx="210" cy="505" r="40" fill="#ffcf5a"/>
+  <rect x="250" y="490" width="720" height="30" rx="15" fill="#9ed0ff"/>
+  <rect x="250" y="535" width="560" height="22" rx="11" fill="#b7e0bf"/>
+</svg>
